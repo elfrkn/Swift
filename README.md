@@ -11,7 +11,7 @@ Projects I made by following the courses I studied
         </tr>
         <tr>
             <td>Land Mark </td>
-            <td><a href="https://github.com/elfrkn/LandmarkBook">Go to project</a></td>
+            <td><a href="https://github.com/elfrkn/Swift/tree/main/LandmarkBook">Go to project</a></td>
             <td>Table View</td>
         </tr>
         <tr>
