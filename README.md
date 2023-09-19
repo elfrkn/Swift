@@ -20,4 +20,4 @@ Projects I made by following the courses I studied
             <td>Classes, Table View</td>
         </tr>
        
-    </table>
+ 
